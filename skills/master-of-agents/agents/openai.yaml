@@ -1,0 +1,6 @@
+interface:
+  display_name: "Master of Agents"
+  short_description: "Delegate deliberately and verify the outcome"
+  default_prompt: "Use $master-of-agents to decide what to handle directly, delegate useful work, and review the results."
+policy:
+  allow_implicit_invocation: true
